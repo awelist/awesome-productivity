@@ -113,6 +113,7 @@ Tools for managing files, documents, and digital assets.
 AI-powered tools that support productivity and workflow optimization.
 
 - [ChatGPT](https://chatgpt.com/) — AI assistant for writing, research, and productivity.
+- - [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) — Free Chrome and Edge extension that continues ChatGPT replies after a configurable delay, with per-tab pause/resume controls and context handoff.
 - [Claude](https://claude.ai/) — AI assistant for knowledge work and analysis.
 - [Gemini](https://gemini.google.com/) — Google's AI assistant platform.
 - [Microsoft Copilot](https://copilot.microsoft.com/) — AI assistant integrated into Microsoft products.
